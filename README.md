@@ -49,7 +49,7 @@ pip install streamlit langchain langchain-community SQLAlchemy pymysql python-do
 2. **Run the Application:**
    Execute the Streamlit app:
    ```bash
-   streamlit run your_script_name.py
+   streamlit run main.py
    ```
 
 3. **Ask Questions:**
